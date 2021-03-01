@@ -1,4 +1,4 @@
-import "./checkout.style.scss";
+import "./checkout.scss";
 import { connect } from "react-redux";
 import { createStructuredSelector } from "reselect";
 import {
